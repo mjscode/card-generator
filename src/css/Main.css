@@ -1,0 +1,32 @@
+.Main{
+    padding-left:8%;
+    padding-top:3%;
+}
+.Form{
+    max-width:30%;
+}
+div{
+    padding-bottom:2%;
+}
+label{
+    font-style: italic;
+    font-weight: 30;
+    font-size:85%;
+    color: blue;
+    padding-top:8%
+}
+input{
+    display:block;
+    padding:2%;
+    width:95%;
+    font-size: 80%;
+    color:blue;
+    /* font-weight: 30; */
+}
+.Button-row{
+    padding-top:3%;
+}
+.WaitMessage{
+    padding-top:20%;
+    padding-bottom: 20%;
+}

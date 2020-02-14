@@ -1,0 +1,24 @@
+.Card{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5% 2%;
+    margin-bottom: 3%;
+}
+.Header-row, .Center-row{
+    padding-bottom: 0px;
+}
+.Center-row{
+    text-align: center;
+}
+.Center-row h3{
+    font-weight: 400;
+}
+.Bottom-row{
+    display: flex;
+}
+.Bottom-row span:nth-child(1){
+    width:100% 
+ };
+ .Bottom-row span:nth-last-child(){
+     align-self:flex-end;
+ }
